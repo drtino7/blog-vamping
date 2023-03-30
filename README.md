@@ -22,7 +22,7 @@ trabajo de tic 2023, un blog web sobre vampen el que se trabaja con html y cssin
 
 
 
-##LINK
+## LINK
 
 -https://641a698c7052682cda852351--effulgent-paletas-866d28.netlify.app/index.html
 
