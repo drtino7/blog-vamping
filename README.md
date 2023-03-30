@@ -4,23 +4,27 @@
  <img align="right" src="https://fotografias-compromiso.atresmedia.com/clipping/cmsimages02/2019/03/29/56B75CC6-E2D2-4199-8B67-231B922C9821/58.jpg" width="350" alt="vamping">
 
 
-# trabajo tic 2023
+# BLOG SOBRE VAMPING
 
-trabajo de tic , un blog sobre vamping
+trabajo de tic 2023, un blog web sobre vampen el que se trabaja con html y cssing 
 
 
-## pagina web
+## PAGINA WEB
 
 - [index](web/index.html)
 
 - [styles](web/styles.css)
 
 
-## Miscellaneous
+
   
   
 
-- [Project Status](guide/status-selection.md)
+
+
+##LINK
+
+-https://641a698c7052682cda852351--effulgent-paletas-866d28.netlify.app/index.html
 
   
   
