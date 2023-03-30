@@ -31,5 +31,5 @@ trabajo de tic , un blog sobre vamping
   
   | [<img src="https://avatars.githubusercontent.com/u/124052585?v=4" width=115><br><sub>joaquin carreras</sub>](https://github.com/joacox07)
   
-valentino grande
-joaquin carreras
+
+
