@@ -31,7 +31,8 @@ trabajo de tic 2023, un blog web sobre vampen el que se trabaja con html y cssin
 ## integrantes
 
   
-[<img align= "left" src="https://avatars.githubusercontent.com/u/87675718?s=400&v=4" width=115><br><sub>valentino grande</sub>](https://github.com/drtino7) |  [<img align="right" src="https://avatars.githubusercontent.com/u/124052585?v=4" width=115><br><sub align="right">joaquin carreras</sub>](https://github.com/joacox07)
+[<img align= "left" src="https://avatars.githubusercontent.com/u/87675718?s=400&v=4" width=115><br><sub>valentino grande</sub>](https://github.com/drtino7)
+[<img align="right" src="https://avatars.githubusercontent.com/u/124052585?v=4" width=115><br><sub>joaquin carreras</sub>](https://github.com/joacox07)
   
 
   
